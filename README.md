@@ -188,6 +188,7 @@ public class SecurityConfig {
 ### output:
 #### home
 <img width="1337" height="704" alt="image" src="https://github.com/user-attachments/assets/0decf3e5-c527-4a7e-b98a-2e2f486b2504" />
+
 #### main
 <img width="1763" height="697" alt="image" src="https://github.com/user-attachments/assets/9976319c-f8cc-45d6-bada-344f660dcaa3" />
 
